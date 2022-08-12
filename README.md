@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Al-Ahmad</h1>
-<h3 align="center">A software engineer with hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance.</h3>
+<h3 align="center">A passionate frontend and backend developer from Syria </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-alahmad&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-alahmad" /> </p>
 
