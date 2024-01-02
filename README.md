@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/khaledralahmad" target="blank"><img src="https://img.shields.io/twitter/follow/khaledralahmad?logo=twitter&style=for-the-badge" alt="khaledralahmad" /></a> </p>
 
-- 🔭 I’m currently working on [Blogs App](https://github.com/khaled-Alahmad/blogs_app)
 
-- 👨‍💻 All of my projects are available at [https://khaled-alahmad.github.io/portfoilo/](https://khaled-alahmad.github.io/portfoilo/)
 
-- 📫 How to reach me **aabboorroossee@gmail.com**
+- 📫 How to reach me **eng.khaledalahmad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
